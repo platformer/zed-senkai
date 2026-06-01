@@ -1,0 +1,9 @@
+*
+!.gitignore
+!README.md
+!extension.toml
+!themes
+!themes/*
+!LICENSE.txt
+!LICENSES
+!LICENSES/*
