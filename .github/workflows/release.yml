@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: huacnlee/zed-extension-action@v1
         with:
-          extension-name: umbralkai
+          extension-name: senkai-theme
           # extension-path: extensions/${{ extension-name }}
           push-to: platformer/zed-extensions
         env:
